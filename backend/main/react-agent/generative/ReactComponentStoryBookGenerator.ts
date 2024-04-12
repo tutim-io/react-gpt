@@ -128,7 +128,7 @@ Make sure it covers all the use cases and states.
 Instructions:
 Make sure it's a working code, don't assume that I'm going to change or implement anything.
 Assume I have storybook setup in my project.
-The component is in the same folder as your code, and is exported as default, use this synatx to import: import ComponentName from './ComponentName';
+The component is in the same folder as your code, and is exported as default, use this syntax to import: import CotaonentName from './ComponentName';
 ---
 Return Type:
 return a React storybook file of the component, written in Typescript, using storybook.
